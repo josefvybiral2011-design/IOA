@@ -441,7 +441,7 @@
                     "name": "Jedi",
                     "texture": [
                         "https://raw.githubusercontent.com/josefvybiral2011-design/IOA/refs/heads/main/F-16-jedi.png",
-                    ],
+                    ]
                     "credits": "BorecPepik"
                 }
             ],
@@ -592,8 +592,7 @@
             ],
             "labels": [
                 "Texture"
-            ]
-            
+            ]    
         },
         "5038": {
             "name": "Lokheed L1011-1 TriStar",
