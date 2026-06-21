@@ -1,7 +1,7 @@
 {
     "name": "IOA",
     "color": "blue",
-    "bgcolor": "red",
+    "bgcolor": "#111111",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
