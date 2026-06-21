@@ -443,6 +443,54 @@
                 "https://raw.githubusercontent.com/josefvybiral2011-design/IOA/refs/heads/main/F-16-jedi.png"
             ],
             "credits": "BorecPepik"
+        },
+        {
+            "name": "Valiant",
+            "texture": [
+                "https://raw.githubusercontent.com/josefvybiral2011-design/IOA/refs/heads/main/F-16-valiant.png"
+            ],
+            "credits": "BorecPepik"
+        },        {
+            "name": "Spartan",
+            "texture": [
+                "https://raw.githubusercontent.com/josefvybiral2011-design/IOA/refs/heads/main/F-16-spartan.png"
+            ],
+            "credits": "BorecPepik"
+        },
+        {
+            "name": "Brotk",
+            "texture": [
+                "https://raw.githubusercontent.com/josefvybiral2011-design/IOA/refs/heads/main/F-16-brotk.png"
+            ],
+            "credits": "BorecPepik"
+        },
+        {
+            "name": "Eagle",
+            "texture": [
+                "https://raw.githubusercontent.com/josefvybiral2011-design/IOA/refs/heads/main/F-16-eagle.png"
+            ],
+            "credits": "BorecPepik"
+        },
+        {
+            "name": "Shadow",
+            "texture": [
+                "https://raw.githubusercontent.com/josefvybiral2011-design/IOA/refs/heads/main/F-16-shadow.png"
+            ],
+            "credits": "BorecPepik"
+        },
+        {
+            "name": "Swagger",
+            "texture": [
+                "https://raw.githubusercontent.com/josefvybiral2011-design/IOA/refs/heads/main/F-16-swagger.png"
+            ],
+            "credits": "BorecPepik"
+        },
+        {
+            "name": "Talgo",
+            "texture": [
+                "https://raw.githubusercontent.com/josefvybiral2011-design/IOA/refs/heads/main/F-16-talgo.png"
+            ],
+            "credits": "BorecPepik"
         }
     ],
     "labels": [
