@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Interceptors of America",
+    "color": "blue",
+    "bgcolor": "red",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -437,6 +437,13 @@
         "7": {
             "name": "General Dynamics F16 Fighting Falcon",
             "liveries": [
+            {
+                    "name": "Jedi",
+                    "texture": [
+                        "https://raw.githubusercontent.com/josefvybiral2011-design/IOA/refs/heads/main/F-16-jedi.png",
+                    ],
+                    "credits": "BorecPepik"
+                }
             ],
             "labels": [
                 "Texture"
