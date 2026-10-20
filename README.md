@@ -1,2 +1,2 @@
 # IOA
-a VA for IOA geofs
+a VA for IoA geofs
